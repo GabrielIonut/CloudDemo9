@@ -1,0 +1,1 @@
+git clone https://dev-cloud-igb-umbraco-com.scm.s1.umbraco.io/892c295d-3524-44a0-ad4a-5fb44abe87b1.git CloudTraining.Web
